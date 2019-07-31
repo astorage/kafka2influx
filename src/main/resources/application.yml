@@ -1,0 +1,12 @@
+logging:
+  level:
+    root: info
+
+influxdb:
+  url: http://10.10.3.158:8087
+  dbname: test_db
+  tbname: test_user_behavior
+
+
+kafka:
+  topic_user_behavior: my-replicated-topic
