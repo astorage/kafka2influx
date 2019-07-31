@@ -7,4 +7,4 @@
  influxdb的文档也比较全，influxdb-java 上github的说明也很详细，
  https://github.com/influxdata/influxdb-java/blob/master/src/test/java/org/influxdb/InfluxDBTest.java说明了各种用法
  
- kafka最近的版本是kafka_2.12-2.3.0 ，kafka的官方文档比较全，学习起来比较方便。
+ kafka最近的版本是kafka_2.12-2.3.0 ，kafka的官方文档比较全，学习起来比较方便。每个版本都有对应的文档，文档里面都有对应的java api
